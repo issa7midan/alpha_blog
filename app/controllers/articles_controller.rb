@@ -13,7 +13,7 @@ class ArticlesController < ApplicationController
   end
 
   def edit
-     @article = set_article
+
   end
 
   def create
